@@ -1,5 +1,11 @@
 [
   {
     "package": "pmeasyr"
+  },
+  {
+    "package": "nomensland"
+  },
+  {
+    "package": "stringfix"
   }
 ]

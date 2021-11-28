@@ -8,3 +8,13 @@
 	url = https://github.com/GuillaumePressiat/pmeasyr
 	shallow = true
 	registered = true
+[submodule "nomensland"]
+	path = nomensland
+	url = https://github.com/GuillaumePressiat/nomensland
+	shallow = true
+	registered = true
+[submodule "stringfix"]
+	path = stringfix
+	url = https://github.com/GuillaumePressiat/stringfix
+	shallow = true
+	registered = true
