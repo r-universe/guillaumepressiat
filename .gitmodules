@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/guillaumepressiat/universe
-	shallow = true
 	branch = HEAD
-[submodule "pmeasyr"]
-	path = pmeasyr
-	url = https://github.com/GuillaumePressiat/pmeasyr
-	shallow = true
-	registered = true
 [submodule "nomensland"]
 	path = nomensland
 	url = https://github.com/GuillaumePressiat/nomensland
-	shallow = true
-	registered = true
+[submodule "pmeasyr"]
+	path = pmeasyr
+	url = https://github.com/GuillaumePressiat/pmeasyr
 [submodule "stringfix"]
 	path = stringfix
 	url = https://github.com/GuillaumePressiat/stringfix
-	shallow = true
-	registered = true
