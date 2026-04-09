@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/guillaumepressiat/guillaumepressiat.r-universe.dev
 	branch = HEAD
+[submodule "logrittr"]
+	path = logrittr
+	url = https://github.com/GuillaumePressiat/logrittr
 [submodule "nomensland"]
 	path = nomensland
 	url = https://github.com/GuillaumePressiat/nomensland
