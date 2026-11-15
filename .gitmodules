@@ -5,6 +5,9 @@
 [submodule "chubrestdown"]
 	path = chubrestdown
 	url = https://github.com/GuillaumePressiat/chubrestdown
+[submodule "hprimxml"]
+	path = hprimxml
+	url = https://github.com/GuillaumePressiat/hprimxml
 [submodule "logrittr"]
 	path = logrittr
 	url = https://github.com/GuillaumePressiat/logrittr
